@@ -1,3 +1,4 @@
+# Cryptocurrency Center
 Cryptocurrency terminal application based on python library "asciimatics".
 
 # Documentation
