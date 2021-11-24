@@ -12,3 +12,5 @@ Before launching the application you can install all used in the project library
 To install all package you can use 'pip' in your shell as follows:
     
     $ pip install -r requirements.txt
+    
+Then just launch main.py in system shell.
