@@ -10,7 +10,5 @@ Full documentation of this project in polish language is available at [Documenta
 Before launching the application you can install all used in the project library.All are listed in the requirements.txt file.
 
 To install all package you can use 'pip' in your shell as follows:
-
-.. code-block:: bash
     
     $ pip install -r requirements.txt
