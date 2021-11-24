@@ -19,3 +19,8 @@ Then just launch main.py in system shell.
 # Screenshots
 
 ![Animation_first_scene](https://user-images.githubusercontent.com/82111995/143305756-593c70ff-6c2f-4418-aabe-45c22ca4afe5.gif)
+<br/>
+![menu_screen](https://user-images.githubusercontent.com/82111995/143306159-02b0e38b-aceb-457b-b781-571da361c92a.PNG)
+<br/>
+![kurs_crypto](https://user-images.githubusercontent.com/82111995/143306415-c8f9e812-09c8-4975-91a7-4da3a6bd3626.gif)
+
